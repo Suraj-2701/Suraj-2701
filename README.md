@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">Student and Freelancer</h3>
 
-<p align="left"> <img src="" alt="suraj-2701" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj-2701" alt="suraj-2701" /></a> </p>
 
 - 🌱 I’m currently learning **Operating System, Cloud Computing, Software Development**
 
